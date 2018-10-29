@@ -11,6 +11,12 @@ namespace app\index\controller;
 
 use think\Db;
 
+/**
+ * 原生SQL查询
+ * Class User
+ *
+ * @package app\index\controller
+ */
 class User
 {
     public function create()
